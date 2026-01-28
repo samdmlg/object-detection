@@ -1,1 +1,1 @@
-print("Object detection project")
+print('Hello from dev A')
